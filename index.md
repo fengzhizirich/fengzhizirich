@@ -239,8 +239,7 @@ lang=EN-US style='font-size:14.0pt'><o:p></o:p></span></p>
  height:130.5pt;visibility:visible'>
  <v:imagedata src="hb.files/image009.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=554 height=174
-src="https://github.com/fengzhizirich/fengzhizirich/blob/gh-pages/image009.png" v:shapes="图片_x0020_37"><![endif]></span><span
-lang=EN-US style='font-size:14.0pt'><o:p></o:p></span></p>
+src="https://github.com/fengzhizirich/fengzhizirich/blob/gh-pages/image009.png" v:shapes="图片_x0020_37"><![endif]><o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:14.0pt'><span
 style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
