@@ -106,13 +106,11 @@ mso-hansi-font-family:Calibri'>的流动性挖矿来做市商，只需要在</sp
 style='font-size:14.0pt'>Hummingbot</span><span style='font-size:14.0pt;
 font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>指定的交易所的币种下挂买卖订单，为币种提供流动性而不需要订单成交，系统通过每分钟快照来锁定奖励。通俗的讲，就是每分钟的快照中只要有你的订单，你就可以获得奖励。</span><span
 lang=EN-US style='font-size:14.0pt'>Hummingbot</span><span style='font-size:
-14.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>的流动性挖矿目前和</span><span
+14.0pt;font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>的流动性挖矿目前和币安、</span><span
 lang=EN-US style='font-size:14.0pt'>AscendEx</span><span style='font-size:14.0pt;
-font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>交易所（原</span><span
-lang=EN-US style='font-size:14.0pt'>BitMax</span><span style='font-size:14.0pt;
-font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>交易所）、</span><span
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>、</span><span
 lang=EN-US style='font-size:14.0pt'>Gateio</span><span style='font-size:14.0pt;
-font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>交易所、</span><span
+font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>、</span><span
 lang=EN-US style='font-size:14.0pt'>Kucoin</span><span style='font-size:14.0pt;
 font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri'>交易所合作，支持数十种数字货币做市，下面就是</span><span
 lang=EN-US style='font-size:14.0pt'>Hummingbot</span><span style='font-size:
