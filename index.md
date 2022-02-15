@@ -113,8 +113,8 @@ color:blue;mso-no-proof:yes;text-decoration:none;text-underline:none'><!--[if gt
  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
  <o:lock v:ext="edit" aspectratio="t"/>
 </v:shapetype><v:shape id="图片_x0020_1" o:spid="_x0000_i1029" type="#_x0000_t75"
- alt="https://github.com/fengzhizirich/fengzhizirich/raw/gh-pages/image001.png"
- href="https://github.com/fengzhizirich/fengzhizirich/blob/gh-pages/image001.png"
+ alt="image001.png"
+ href="image001.png"
  target="&quot;_blank&quot;" style='width:415.5pt;height:170.25pt;visibility:visible;
  mso-wrap-style:square' o:button="t">
  <v:imagedata src="新建%20Microsoft%20Office%20Word%20文档.files/image001.png"
@@ -122,7 +122,7 @@ color:blue;mso-no-proof:yes;text-decoration:none;text-underline:none'><!--[if gt
 </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
 border=0 width=554 height=227
 src="新建%20Microsoft%20Office%20Word%20文档.files/image002.jpg"
-alt="https://github.com/fengzhizirich/fengzhizirich/blob/791e397fdc5c58786245d85d951f07f5c0e26ed1/image001.png"
+alt="image001.png"
 v:shapes="图片_x0020_1"></span><![endif]></span></a></span><span lang=EN-US
 style='font-size:10.0pt;font-family:"Segoe UI","sans-serif";color:#24292F'><o:p></o:p></span></p>
 
