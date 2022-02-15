@@ -121,7 +121,7 @@ color:blue;mso-no-proof:yes;text-decoration:none;text-underline:none'><!--[if gt
   o:title="image001"/>
 </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'><img
 border=0 width=554 height=227
-src="新建%20Microsoft%20Office%20Word%20文档.files/image002.jpg"
+src="https://github.com/fengzhizirich/fengzhizirich/blob/gh-pages/image001.png"
 alt="https://github.com/fengzhizirich/fengzhizirich/raw/gh-pages/image001.png"
 v:shapes="图片_x0020_1"></span><![endif]></span></a></span><span lang=EN-US
 style='font-size:10.0pt;font-family:"Segoe UI","sans-serif";color:#24292F'><o:p></o:p></span></p>
